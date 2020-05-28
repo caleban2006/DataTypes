@@ -1,0 +1,12 @@
+C:\Users\68vette\Desktop\LC101\C Sharp\DataTypes\MathMPG\bin\Debug\netcoreapp3.1\MathMPG.exe
+C:\Users\68vette\Desktop\LC101\C Sharp\DataTypes\MathMPG\bin\Debug\netcoreapp3.1\MathMPG.deps.json
+C:\Users\68vette\Desktop\LC101\C Sharp\DataTypes\MathMPG\bin\Debug\netcoreapp3.1\MathMPG.runtimeconfig.json
+C:\Users\68vette\Desktop\LC101\C Sharp\DataTypes\MathMPG\bin\Debug\netcoreapp3.1\MathMPG.runtimeconfig.dev.json
+C:\Users\68vette\Desktop\LC101\C Sharp\DataTypes\MathMPG\bin\Debug\netcoreapp3.1\MathMPG.dll
+C:\Users\68vette\Desktop\LC101\C Sharp\DataTypes\MathMPG\bin\Debug\netcoreapp3.1\MathMPG.pdb
+C:\Users\68vette\Desktop\LC101\C Sharp\DataTypes\MathMPG\obj\Debug\netcoreapp3.1\MathMPG.AssemblyInfoInputs.cache
+C:\Users\68vette\Desktop\LC101\C Sharp\DataTypes\MathMPG\obj\Debug\netcoreapp3.1\MathMPG.AssemblyInfo.cs
+C:\Users\68vette\Desktop\LC101\C Sharp\DataTypes\MathMPG\obj\Debug\netcoreapp3.1\MathMPG.csproj.CoreCompileInputs.cache
+C:\Users\68vette\Desktop\LC101\C Sharp\DataTypes\MathMPG\obj\Debug\netcoreapp3.1\MathMPG.dll
+C:\Users\68vette\Desktop\LC101\C Sharp\DataTypes\MathMPG\obj\Debug\netcoreapp3.1\MathMPG.pdb
+C:\Users\68vette\Desktop\LC101\C Sharp\DataTypes\MathMPG\obj\Debug\netcoreapp3.1\MathMPG.genruntimeconfig.cache
