@@ -1,0 +1,13 @@
+C:\Users\68vette\Desktop\LC101\C Sharp\DataTypes\GreetName\obj\Debug\netcoreapp3.1\GreetName.csprojAssemblyReference.cache
+C:\Users\68vette\Desktop\LC101\C Sharp\DataTypes\GreetName\obj\Debug\netcoreapp3.1\GreetName.AssemblyInfoInputs.cache
+C:\Users\68vette\Desktop\LC101\C Sharp\DataTypes\GreetName\obj\Debug\netcoreapp3.1\GreetName.AssemblyInfo.cs
+C:\Users\68vette\Desktop\LC101\C Sharp\DataTypes\GreetName\obj\Debug\netcoreapp3.1\GreetName.csproj.CoreCompileInputs.cache
+C:\Users\68vette\Desktop\LC101\C Sharp\DataTypes\GreetName\bin\Debug\netcoreapp3.1\GreetName.exe
+C:\Users\68vette\Desktop\LC101\C Sharp\DataTypes\GreetName\bin\Debug\netcoreapp3.1\GreetName.deps.json
+C:\Users\68vette\Desktop\LC101\C Sharp\DataTypes\GreetName\bin\Debug\netcoreapp3.1\GreetName.runtimeconfig.json
+C:\Users\68vette\Desktop\LC101\C Sharp\DataTypes\GreetName\bin\Debug\netcoreapp3.1\GreetName.runtimeconfig.dev.json
+C:\Users\68vette\Desktop\LC101\C Sharp\DataTypes\GreetName\bin\Debug\netcoreapp3.1\GreetName.dll
+C:\Users\68vette\Desktop\LC101\C Sharp\DataTypes\GreetName\bin\Debug\netcoreapp3.1\GreetName.pdb
+C:\Users\68vette\Desktop\LC101\C Sharp\DataTypes\GreetName\obj\Debug\netcoreapp3.1\GreetName.dll
+C:\Users\68vette\Desktop\LC101\C Sharp\DataTypes\GreetName\obj\Debug\netcoreapp3.1\GreetName.pdb
+C:\Users\68vette\Desktop\LC101\C Sharp\DataTypes\GreetName\obj\Debug\netcoreapp3.1\GreetName.genruntimeconfig.cache
