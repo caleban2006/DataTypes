@@ -10,3 +10,4 @@ C:\Users\68vette\Desktop\LC101\C Sharp\DataTypes\Strings\obj\Debug\netcoreapp3.1
 C:\Users\68vette\Desktop\LC101\C Sharp\DataTypes\Strings\obj\Debug\netcoreapp3.1\Strings.dll
 C:\Users\68vette\Desktop\LC101\C Sharp\DataTypes\Strings\obj\Debug\netcoreapp3.1\Strings.pdb
 C:\Users\68vette\Desktop\LC101\C Sharp\DataTypes\Strings\obj\Debug\netcoreapp3.1\Strings.genruntimeconfig.cache
+C:\Users\68vette\Desktop\LC101\C Sharp\DataTypes\Strings\obj\Debug\netcoreapp3.1\Strings.csprojAssemblyReference.cache
