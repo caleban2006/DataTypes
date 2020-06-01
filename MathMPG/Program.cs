@@ -2,7 +2,7 @@
 
 namespace MathMPG
 {
-    class MathMPG
+    class Program
     {
         static void Main(string[] args)
         {
